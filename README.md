@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abidalikp
-- 👀 I’m interested in App Developement.
-- 🌱 I’m currently learning Android Studio and Kotlin.
-- 💞️ I’m looking to collaborate on Android Studio Projects.
+- 🌱 I’m interested in Software Developement and Machine Learning.
+- 👀 I’m currently looking for jobs.
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 You can reach me at abidalikp98@gmail.com
 
 <!---
