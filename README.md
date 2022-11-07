@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abidalikp
 - 🌱 I’m interested in Software Developement.
-- 👀 I’m currently looking for jobs.
+- 👀 I’m currently working on developing websites.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 You can reach me at abidalikp98@gmail.com
 
