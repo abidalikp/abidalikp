@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abidalikp
 - 👨‍🎓 I'm a computer science graduate from National Institute of Technology Calicut.
-- 🌱 I’m interested in Software Developement.
+- 🌱 I’m interested in Software Developement and Machine Learning.
 - 👀 I’m currently working on developing websites.
 - 📫 You can reach me at abidalikp98@gmail.com
 
